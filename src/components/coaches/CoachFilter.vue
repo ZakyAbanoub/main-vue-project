@@ -3,7 +3,7 @@
         <h2>Find Your Coach</h2>
         <span class="filter-option">
             <input type="checkbox" id="frontend" checked @change="setFilter" />
-            <label for="frontend"> FrontEnd </label>
+            <label for="frontend"> Frontend </label>
         </span>
         <span>
             <input type="checkbox" id="backend" checked @change="setFilter" />
